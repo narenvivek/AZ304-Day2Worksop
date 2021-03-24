@@ -5,3 +5,4 @@ https://github.com/microsoft/MCW-Serverless-architecture/blob/master/Whiteboard%
 
 ## Team Solution
 
+![Alt text here](https://github.com/narenvivek/AZ304-Day2Worksop/blob/d4c77d11b56477fe55ad2da7b1ffb8c6fd665268/AZ-304%20Day%202%20Workshop.png)
